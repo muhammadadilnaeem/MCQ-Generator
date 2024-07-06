@@ -10,3 +10,4 @@ pandas
 matplotlib
 seaborn
 ipykernel
+-e . #The -e prefix in a requirements.txt file is used to specify that a package should be installed in "editable" mode. This means that the package will be installed from a local or remote source code repository, rather than from a pre-built package distribution (such as a PyPI wheel or source distribution).
