@@ -6,3 +6,4 @@ __init__.py (inside the package,wherevee __init__ will be present it will be con
 
 experiments (we wil de experiments in this folder, we will create ipynb)
 
+The -e prefix in a requirements.txt file is used to specify that a package should be installed in "editable" mode. This means that the package will be installed from a local or remote source code repository, rather than from a pre-built package distribution (such as a PyPI wheel or source distribution).
