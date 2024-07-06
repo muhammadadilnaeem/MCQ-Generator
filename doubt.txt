@@ -1,0 +1,8 @@
+setup.py (for installing local package in my virtual envvironment.)
+
+src (source)
+
+__init__.py (inside the package)
+
+experiments (we wil de experiments in this folder, we will create ipynb)
+
