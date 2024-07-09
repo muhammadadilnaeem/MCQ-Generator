@@ -8,6 +8,8 @@
 ## Overview
 The **MCQ Generator** is a comprehensive project designed to generate multiple-choice questions (MCQs) from provided text, evaluate the complexity of these questions, and present them through a user-friendly web interface. This project leverages LangChain and Streamlit for its core functionality.
 
+https://github.com/muhammadadilnaeem/MCQ-Generator/assets/162784706/80af7c58-35d8-43c6-b377-1bf678ad7494
+
 ## Table of Contents
 - [**Generative AI Project: MCQ Generator using OpenAI, Langchain Streamlit**](#generative-ai-project-mcq-generator-using-openai-langchain-streamlit)
   - [**Author: Muhammad Adil Naeem**](#author-muhammad-adil-naeem)
